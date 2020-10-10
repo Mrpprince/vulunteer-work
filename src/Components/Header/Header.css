@@ -1,0 +1,16 @@
+nav img{
+    width: 150px;
+}
+nav ul li {
+    text-decoration: none;
+    
+}
+nav ul li a{
+    color:#000
+}
+nav ul li{
+    margin-left: 20px;
+}
+button{
+    margin-left: 20px;
+}
